@@ -1,0 +1,9 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'mmf-study.blg'
+[43] biber-darwin:303> INFO - === Wed Mar  7, 2018, 12:43:34
+[81] Biber.pm:359> INFO - Reading 'mmf-study.bcf'
+[188] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[195] Utils.pm:164> WARN - The file 'mmf-study.bcf' does not contain any citations!
+[200] bbl.pm:608> INFO - Writing 'mmf-study.bbl' with encoding 'UTF-8'
+[200] bbl.pm:712> INFO - Output to mmf-study.bbl
+[200] Biber.pm:109> INFO - WARNINGS: 1
