@@ -252,6 +252,20 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tipa/tipa.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tipa/tipa.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecsl1000.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/t1txss.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/t1txss.fd
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/txfonts/t1xss.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT mmf-study.aux
@@ -265,6 +279,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/omxtxex.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/omxtxex.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/utxexa.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/utxexa.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/t1txr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/t1txr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
@@ -299,6 +315,7 @@ INPUT mmf-study.bbl
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/txfonts/t1xr.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/tipa/tipa9.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/txfonts/t1xb.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txr.fd
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/txfonts/ot1txr.fd
@@ -400,6 +417,7 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxbsc.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/tipa/tipa9.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
